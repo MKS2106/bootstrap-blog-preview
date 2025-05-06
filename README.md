@@ -16,10 +16,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 
 ### The challenge
-
-Users should be able to:
-
-- See hover and focus states for the interactive elements on the page(HTML & CSS Foundation header)
+- To re-format the styling with bootstrap components and utilities.
 
 ### Screenshot
 
@@ -34,13 +31,14 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Bootstrap components, Utilities
 - Flex
 - Mobile-first workflow
 - [Styled Components]("https://fonts.googleapis.com/") - For styles
 
 ### What I learned
 
-I learnt and practiced implementing Figma designs using Frontend Mentor’s challenges. by building Blog Preview Card. I gained valuable experience in interpreting design files, writing HTML and CSS, and creating professional, polished components.
+I learnt and practiced implementing Bootstrap components by building Blog Preview Card. I gained valuable experience in interpreting design files, writing HTML, CSS and Bootstrap and creating professional, polished components.
 
 ### Useful resources
 
